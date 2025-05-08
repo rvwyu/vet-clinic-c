@@ -23,7 +23,7 @@ A C-based console application designed to manage patient records and appointment
 
 Once you run the program, a menu-driven interface will guide you through the following:
 
-### 📋 Patient Management
+### Patient Management
 
 - **View Patient Data** – Lists all patients  
 - **Search Patients** – By number or phone  
@@ -31,7 +31,7 @@ Once you run the program, a menu-driven interface will guide you through the fol
 - **Edit Patient** – Update name or contact info  
 - **Remove Patient** – Delete a record
 
-### 📅 Appointment Management
+### Appointment Management
 
 - **View All Appointments** – Full schedule list  
 - **View Appointments by Date** – Filter by date  
