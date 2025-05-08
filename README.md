@@ -2,7 +2,7 @@
 
 # Veterinary Clinic Management System
 
-A C-based console application designed to manage patient records and appointments for a veterinary clinic. Built as part of a college assignment using modular programming and file handling.
+A C-based console application designed to manage patient records and appointments for a veterinary clinic. 
 
 ---
 
